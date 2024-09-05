@@ -1,9 +1,9 @@
 import React from 'react'
 
 const Check = () => {
-    return (
-        <div>Check</div>
-    )
+    return <>
+    <h1>Pull project<h1/>
+    </>
 }
 
 export default Check
