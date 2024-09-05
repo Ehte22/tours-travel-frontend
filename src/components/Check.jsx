@@ -2,7 +2,7 @@ import React from 'react'
 
 const Check = () => {
     return <>
-    <h1>Pull project<h1/>
+        <h1>Pull project</h1>
     </>
 }
 
